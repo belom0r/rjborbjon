@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "название": "Москва"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5732421875,
+          55.801280971180454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8583984375,
+          59.22093407615045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9892578125,
+          56.3409012041991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9033203125,
+          56.8729956637964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.947265625,
+            56.8729956637964
+          ],
+          [
+            39.88037109375,
+            59.23217626921806
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.92431640625,
+            59.22093407615045
+          ],
+          [
+            37.6171875,
+            55.7765730186677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.59521484375,
+            55.7642131648377
+          ],
+          [
+            35.947265625,
+            56.8249328650072
+          ]
+        ]
+      }
+    }
+  ]
+}
